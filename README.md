@@ -1,10 +1,10 @@
-# APP's для личного использования
-### В Испании некоторые сайты блокируются
+# APP's for personal use
+### Some websites are blocked in Spain
 
-- Ссылка на SIPTV для Android (Сайт заблокирован)
+- Link to SIPTV for Android (Site blocked)
 ```bash
 https://siptv.app/howto/android/
 ```
-- Можно скачать в этом репозитории выше
+- Can be downloaded from this repository above
 
 
