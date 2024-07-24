@@ -5,5 +5,6 @@
 ```bash
 https://siptv.app/howto/android/
 ```
+- Можно скачать в этом репозитории выше
 
 
