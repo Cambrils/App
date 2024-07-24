@@ -1,6 +1,9 @@
-# App
-Repository App 
+# APP's для личного использования
+### В Испании некоторые сайты блокируются
 
-## Smart IPTV
+- Ссылка на SIPTV для Android (Сайт заблокирован)
+```bash
+https://siptv.app/howto/android/
+```
 
 
